@@ -59,6 +59,22 @@
           <li class="nav-item">
             <a
               class="btn btn-outline-primary"
+              v-on:click.prevent="changeDir('documentos')"
+              href="#"
+              >Documentos</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="btn btn-outline-primary"
+              v-on:click.prevent="changeDir('prezi')"
+              href="#"
+              >Prezi</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="btn btn-outline-primary"
               v-on:click.prevent="changeDir('solucion')"
               href="#"
               >Solucion</a

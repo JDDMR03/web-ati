@@ -156,6 +156,15 @@
       </div>
       <div class="col">
         <img src="../assets/linea12.png" />
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/DxGlcqoOXk8"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
       </div>
     </div>
     <br />
@@ -181,6 +190,15 @@
       </div>
       <div class="col">
         <img src="../assets/septiembre19.png" />
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/uoJihhXqYxA"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
       </div>
     </div>
     <br />
@@ -188,6 +206,10 @@
     <div class="row">
       <div class="col">
         <h1>Desastres naturales mas comunes en mexico</h1>
+        <a
+          href="https://www.bbva.mx/educacion-financiera/seguros/desastres-naturales.html"
+          >Conoce mas!</a
+        >.
         <br />
         <br />
         <h6>Terremotos</h6>
@@ -205,6 +227,10 @@
           >Las tormentas en México generan inundaciones frecuentes tanto en
           comunidades pequeñas como en urbes.</a
         >
+        <a
+          href="https://www.infobae.com/america/mexico/2022/08/16/intensas-lluvias-dejaron-inundaciones-caos-y-vialidades-interrumpidas-en-diversas-ciudades-de-mexico/#:~:text=Estados%20como%20Jalisco%2C%20Nayarit%2C%20Colima,arrastrados%2C%20y%20sem%C3%A1foros%20sin%20energ%C3%ADa."
+          >Conoce mas!</a
+        >.
         <br />
         <br />
         <h6>Deslaves</h6>
@@ -224,6 +250,10 @@
           agricultores deben sembrar con las heladas en mente, siempre buscando
           el modo de minimizar sus efectos.</a
         >
+        <a
+          href="https://ulp.cicese.mx/2022/03/25/heladas-durante-el-invierno-2021-2022/"
+          >Conoce mas!</a
+        >.
         <br />
         <br />
         <h6>Sequias o Incendios</h6>
@@ -245,6 +275,16 @@
           Serán separados según sus categorías, la 5 siendo la más potente y
           peligrosa.</a
         >
+        <br />
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/Dii9MkUB8wQ"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
         <br />
         <br />
         <img src="../assets/graficaCatastrofes.png" />
