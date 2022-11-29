@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Web
+
+See [WEB](https://negligencia-en-construccion.web.app/#/).
